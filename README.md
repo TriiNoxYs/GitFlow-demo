@@ -6,5 +6,8 @@ Version: 2.0.0
 
 
 # Release notes
-In this first release, I created two features: write-readme and add-homepage.
+In the first release, I created two features: write-readme and add-homepage.
 Then, I created a new release: v1.0.0
+
+Now, in this second release, I created two mores features: add-image and add-footer.
+Then, I created a new release: v2.0.0
